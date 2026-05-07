@@ -12,3 +12,14 @@ Practice Python programming
 Work with datasets
 Implement real-world ML workflows
 Use Git and GitHub for version control
+
+Technologies Used
+Python
+NumPy
+Pandas
+Matplotlib
+Scikit-learn
+Jupyter Notebook
+VS Code
+Git & GitHub
+Anaconda
